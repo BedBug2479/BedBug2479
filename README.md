@@ -9,6 +9,11 @@ For my HomePage in PROFILE
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=BedBug2479&theme=dracula&no-frame=true&no-bg=true&margin-w=4)
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
+
 ---
 [![](https://visitcount.itsvg.in/api?id=BedBug2479&icon=3&color=0)](https://visitcount.itsvg.in) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BedBug2479) 
 
