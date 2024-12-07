@@ -14,8 +14,9 @@ For my HomePage in PROFILE
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BedBug2479/BedBug2479/output/github-contribution-grid-snake.svg" />
 </picture>
+
+<img alt="snake eating my contributions" src="https://raw.githubusercontent.com/BedBug2479/BedBug2479/output/github-contribution-grid-snake.svg" />
 
 ---
 [![](https://visitcount.itsvg.in/api?id=BedBug2479&icon=3&color=0)](https://visitcount.itsvg.in) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/BedBug2479) 
